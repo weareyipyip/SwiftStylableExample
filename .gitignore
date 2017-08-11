@@ -21,7 +21,7 @@
 *.lock
 profile
 /Pods
-/SwiftStylableTest/Pods
+/StylableTest/Pods
  
  
 ####
