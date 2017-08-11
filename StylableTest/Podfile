@@ -1,0 +1,7 @@
+
+target 'StylableTest' do
+
+	use_frameworks!
+	pod 'SwiftStylable', :git => 'git@gitlab.com:weareyipyip/SwiftStylable.git', :branch => 'develop'
+
+end
