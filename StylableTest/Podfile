@@ -1,0 +1,7 @@
+
+target 'StylableTest' do
+
+	use_frameworks!
+	pod 'SwiftStylable'
+
+end
